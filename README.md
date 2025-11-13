@@ -18,11 +18,15 @@ In my free time, I love exploring new tools, experimenting with colors and layou
 ## 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**
+
 📍 *Rajagiri College of Social Sciences, Kalamassery*
+
 📅 *2024 – Present*
 
 **Higher Secondary (Commerce Computer)**
+
 📍 *SNV Sanskrit Higher Secondary School*
+
 📅 *2023 – 2024*
 
 ---
