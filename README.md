@@ -1,81 +1,55 @@
+# Hi there 👋, I'm SIVALAKSHMI PS
 
-
-# 👩🏻 Sivalakshmi PS
-
-🎓 **BCA Student at Rajagiri College of Social Sciences**
-🌐 Passionate about **Web Design, Creativity, and Technology**
-
-
-
-## 👩‍💻 About Me
-
-I’m a motivated and creative **BCA student** with a deep interest in **web design** and **cybersecurity**.
-I enjoy building visually appealing and user-friendly websites, where design and logic come together to create meaningful experiences.
-In my free time, I love exploring new tools, experimenting with colors and layouts, and continuously improving my coding skills.
-
-
-
-## 🎓 Education
-
-**Bachelor of Computer Applications (BCA)**
-
-📍 *Rajagiri College of Social Sciences, Kalamassery*
-
-📅 *2024 – Present*
-
-**Higher Secondary (Commerce Computer)**
-
-📍 *SNV Sanskrit Higher Secondary School*
-
-📅 *2023 – 2024*
-
-
-
-## 🚀 Projects
-
-### 💄 Beauty Salon Management System
-
-Developed using **Java (Eclipse IDE)**
-Helps manage appointments, customer data, and billing for salon services
-
-### 🖼️ Simple Image Viewer
-
-Created with **Python**
-Allows users to view, browse, and manage image files easily
-
-### 🧬 Cancer Prediction Web Application
-
-Built using **Python, Django, and Google Colab**
-Predicts breast cancer risk and promotes awareness through an educational interface
-
-
-
-## 🧠 Skills
-
-* **Web Development:** HTML, CSS
-* **Programming:** Java, Python, SQL
-* **Tools:** Git, VS Code, Google Colab
-* **Languages:** English, Hindi, Malayalam, German, Sanskrit
-
-
-
-## ✨ Goals
-
-* Strengthen my front-end and UI/UX design skills
-* Learn advanced cybersecurity concepts
-* Build creative and meaningful digital projects
-
-
-
-## 📫 Contact
-
-📧 **Email:** [sivalakshmips37@gmail.com](mailto:sivalakshmips37@gmail.com)
-💻 **GitHub:** [github.com/sivalakshmi07](https://github.com/sivalakshmi07)
-
-
-
-⭐ *Thank you for visiting my portfolio! Let’s connect and collaborate on something amazing.*
+🎓 **BCA Student | Rajagiri College of Social Sciences (2nd Year)**  
+💻 Passionate about **Web Development** & **Cybersecurity**  
+💡 Motivated, creative, and always eager to learn new technologies  
 
 ---
 
-Would you like me to make it look **even more styled** — for example, with colored badges (for skills like HTML, CSS, Python), section dividers, or a centered name heading like a true GitHub profile page?
+## 🌟 Skills & Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 1️⃣ Beauty Salon Management System
+- **Tech Used:** Java, Eclipse IDE  
+- A system to manage appointments, customer records, and services efficiently.  
+
+### 2️⃣ Simple Image Viewer
+- **Tech Used:** Python, Tkinter  
+- A lightweight desktop app to view and organize images easily.  
+
+### 3️⃣ Breast Cancer Prediction Web Application
+- **Tech Used:** Python, Django, Google Colab  
+- A predictive web app to help users understand risk factors and raise awareness about breast cancer.  
+
+---
+
+## 🎯 Learning & Growth
+- Always exploring **new programming languages, frameworks, and tools**.  
+- Passionate about solving real-world problems through **code and design**.  
+
+---
+
+## 🎵 Hobbies & Interests
+- Dancing 💃  
+- Reading 📚  
+
+---
+
+## 📫 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivalakshmips37@gmail.com)
+
+---
+
+💪 *"Creative, hardworking, and always learning!"*
