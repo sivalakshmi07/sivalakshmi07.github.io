@@ -1,36 +1,50 @@
 Sivalakshmi PS
-🎓 **BCA Student at Rajagiri College of Social Sciences**
-🌐 Passionate about **web design, creativity, and technology**
+
+🎓 BCA Student at Rajagiri College of Social Sciences
+🌐 Passionate about Web Design, Creativity, and Technology
+
 👩‍💻 About Me
-I’m a motivated and creative BCA student with a strong interest in web design and cybersecurity.I enjoy building visually appealing and user-friendly websites and exploring how design and logic work together.In my free time, I love learning new tools, experimenting with colors and layouts, and improving my coding skills.
 
-## 🚀 Projects
-### 💄 Beauty Salon Management System
-- Built using **Java (Eclipse IDE)**  
-- Helps manage appointments, customer data, and billing for salon services  
+I’m a motivated and creative BCA student with a deep interest in web design and cybersecurity. I enjoy building visually appealing and user-friendly websites, where design and logic come together to create meaningful experiences.
+In my free time, I love exploring new tools, experimenting with colors and layouts, and continuously improving my coding skills.
 
-### 🖼️ Simple Image Viewer
-- Created with **Python**  
-- Allows users to view, browse, and manage image files easily  
+🎓 Education
 
-### 🧬 Cancer Prediction Web Application
-- Developed using **Python, Django, and Google Colab**  
-- Predicts breast cancer risk and educates users about early awareness
+Bachelor of Computer Applications (BCA)
+📍 Rajagiri College of Social Sciences, Kalamassery
+📅 2024 – Present
 
-## 🧠 Skills
-- **Web Development:** HTML, CSS  
-- **Programming:** Java, Python, SQL  
-- **Tools:** Git, VS Code, Google Colab  
-- **Languages:** English, Hindi, Malayalam, German, Sanskrit
+Higher Secondary (Commerce Computer)
+📍 Snv Sanskrit Higher Secondary School
+📅 2023-2024
 
-## ✨ Goals
-- Improve my front-end and UI/UX design skills  
-- Learn more about cybersecurity and ethical hacking  
-- Build creative, meaningful digital projects
+🚀 Projects
 
-## 📫 Contact
-📧 **Email:** [sivalakshmips37@gmail.com](mailto:sivalakshmips37@gmail.com)  
-💻 **GitHub:** [github.com/sivalakshmi07](https://github.com/sivalakshmi07)
+💄 Beauty Salon Management System
+Developed using Java (Eclipse IDE)
+Helps manage appointments, customer data, and billing for salon services
 
+🖼️ Simple Image Viewer
+Created with Python
+Allows users to view, browse, and manage image files easily
 
-⭐ *Thanks for visiting my portfolio! Feel free to connect or collaborate.*
+🧬 Cancer Prediction Web Application
+Built using Python, Django, and Google Colab
+Predicts breast cancer risk and promotes awareness through an educational interface
+
+🧠 Skills
+Web Development: HTML, CSS
+Programming: Java, Python, SQL
+Tools: Git, VS Code, Google Colab
+Languages: English, Hindi, Malayalam, German, Sanskrit
+
+✨ Goals
+Strengthen my front-end and UI/UX design skills
+Learn advanced cybersecurity concepts
+Build creative and meaningful digital projects
+
+📫 Contact
+📧 Email: sivalakshmips37@gmail.com
+💻 GitHub: github.com/sivalakshmi07
+
+⭐ Thank you for visiting my portfolio! Let’s connect and collaborate on something amazing.
