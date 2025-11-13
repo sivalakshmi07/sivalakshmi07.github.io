@@ -5,7 +5,7 @@
 🎓 **BCA Student at Rajagiri College of Social Sciences**
 🌐 Passionate about **Web Design, Creativity, and Technology**
 
----
+
 
 ## 👩‍💻 About Me
 
@@ -13,7 +13,7 @@ I’m a motivated and creative **BCA student** with a deep interest in **web des
 I enjoy building visually appealing and user-friendly websites, where design and logic come together to create meaningful experiences.
 In my free time, I love exploring new tools, experimenting with colors and layouts, and continuously improving my coding skills.
 
----
+
 
 ## 🎓 Education
 
@@ -29,7 +29,7 @@ In my free time, I love exploring new tools, experimenting with colors and layou
 
 📅 *2023 – 2024*
 
----
+
 
 ## 🚀 Projects
 
@@ -48,7 +48,7 @@ Allows users to view, browse, and manage image files easily
 Built using **Python, Django, and Google Colab**
 Predicts breast cancer risk and promotes awareness through an educational interface
 
----
+
 
 ## 🧠 Skills
 
@@ -57,7 +57,7 @@ Predicts breast cancer risk and promotes awareness through an educational interf
 * **Tools:** Git, VS Code, Google Colab
 * **Languages:** English, Hindi, Malayalam, German, Sanskrit
 
----
+
 
 ## ✨ Goals
 
@@ -65,14 +65,14 @@ Predicts breast cancer risk and promotes awareness through an educational interf
 * Learn advanced cybersecurity concepts
 * Build creative and meaningful digital projects
 
----
+
 
 ## 📫 Contact
 
 📧 **Email:** [sivalakshmips37@gmail.com](mailto:sivalakshmips37@gmail.com)
 💻 **GitHub:** [github.com/sivalakshmi07](https://github.com/sivalakshmi07)
 
----
+
 
 ⭐ *Thank you for visiting my portfolio! Let’s connect and collaborate on something amazing.*
 
