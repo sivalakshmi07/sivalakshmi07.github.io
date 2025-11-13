@@ -1,15 +1,13 @@
-🌸 Sivalakshmi PS
+👩🏻 Sivalakshmi PS
 
 🎓 BCA Student at Rajagiri College of Social Sciences
 🌐 Passionate about Web Design, Creativity, and Technology
 
 👩‍💻 About Me
-
 I’m a motivated and creative BCA student with a deep interest in web design and cybersecurity. I enjoy building visually appealing and user-friendly websites, where design and logic come together to create meaningful experiences.
 In my free time, I love exploring new tools, experimenting with colors and layouts, and continuously improving my coding skills.
 
 🎓 Education
-
 Bachelor of Computer Applications (BCA)
 📍 Rajagiri College of Social Sciences, Kalamassery
 📅 2024 – Present
@@ -19,7 +17,6 @@ Higher Secondary (Commerce Computer)
 📅 2023-2024
 
 🚀 Projects
-
 💄 Beauty Salon Management System
 Developed using Java (Eclipse IDE)
 Helps manage appointments, customer data, and billing for salon services
