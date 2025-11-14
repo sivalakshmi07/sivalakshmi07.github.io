@@ -18,6 +18,18 @@
 
 ---
 
+🎓 Education
+Bachelor of Computer Applications (BCA)
+
+📍 Rajagiri College of Social Sciences, Kalamassery
+📅 2nd Year (2024 – Present)
+
+Higher Secondary (Commerce Computer)
+
+📍 SNV Sanskrit Higher Secondary School
+📅 Plus One & Plus Two (2022 – 2024)
+
+
 ## 🚀 Projects
 
 ### 1️⃣ Beauty Salon Management System
