@@ -21,28 +21,28 @@
 ## 🚀 Projects
 
 ### 1️⃣ Beauty Salon Management System
-* **Tech Used:** Java, Eclipse IDE  
-* A system to manage appointments, customer records, and services efficiently.  
+- **Tech Used:** Java, Eclipse IDE  
+- A system to manage appointments, customer records, and services efficiently.  
 
 ### 2️⃣ Simple Image Viewer
-* **Tech Used:** Python, Tkinter  
-* A lightweight desktop app to view and organize images easily.  
+- **Tech Used:** Python, Tkinter  
+- A lightweight desktop app to view and organize images easily.  
 
 ### 3️⃣ Breast Cancer Prediction Web Application
-* **Tech Used:** Python, Django, Google Colab  
-* A predictive web app to help users understand risk factors and raise awareness about breast cancer.  
+- **Tech Used:** Python, Django, Google Colab  
+- A predictive web app to help users understand risk factors and raise awareness about breast cancer.  
 
 ---
 
 ## 🎯 Learning & Growth
-* Always exploring **new programming languages, frameworks, and tools**.  
-* Passionate about solving real-world problems through **code and design**.  
+- Always exploring **new programming languages, frameworks, and tools**.  
+- Passionate about solving real-world problems through **code and design**.  
 
 ---
 
 ## 🎵 Hobbies & Interests
-* Dancing 💃  
-* Reading 📚  
+- Dancing 💃  
+- Reading 📚  
 
 ---
 
@@ -51,4 +51,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivalakshmips37@gmail.com)
 
 ---
-
