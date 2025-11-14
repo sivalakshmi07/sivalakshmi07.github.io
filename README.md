@@ -29,6 +29,8 @@ Higher Secondary (Commerce Computer)
 📍 SNV Sanskrit Higher Secondary School
 📅 Plus One & Plus Two (2022 – 2024)
 
+---
+
 
 ## 🚀 Projects
 
